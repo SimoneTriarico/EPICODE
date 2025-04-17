@@ -1,0 +1,7 @@
+Esercizio 1:
+Messaggio cifrato: "HSNFRGH" = cifratura di Giulio Cesare base 3 = "EPICODE"
+
+
+Esercizio 2:
+messaggio cifrato: "QWJhIHZ6b2VidHl2bmdyIHB1ciB6ciBhciBucHBiZXRi" = prima cifratura base 64 = Aba vzobehtyvngr pur zr ar nppbetr
+seconda cifratura base 3 = Non imboruglike chef me ne accroget = Non imbrogliatemi, che me ne accorgo
